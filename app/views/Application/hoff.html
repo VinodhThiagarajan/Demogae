@@ -1,0 +1,19 @@
+#{extends 'main.html' /}
+#{set title : 'Help Our Furry Friend' /}
+
+<script src="@{'/public/stylesheets/my_style.css'}" type="text/javascript"></script>
+<div id="clickMe">Show Me the Furry Friend of the Day</div>
+<div id="picframe">
+<img src="@{'public/images/furryfriend.jpg'}">
+</div>
+<script type="text/javascript">
+
+$(document).ready(function(){
+$("#clickMe").click(function() {
+	$("img").fadeIn(1000);
+	$("#picframe").slideToggle("slow");
+	
+});
+});
+</script>
+

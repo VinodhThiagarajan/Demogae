@@ -1,0 +1,370 @@
+CompilerOracle: exclude jregex/Pretokenizer.next
+Listening for transport dt_socket at address: 26920
+15:20:49,240 INFO  ~ Starting D:\PLAY\Installables\Applications\Demogae
+15:20:49,244 INFO  ~ Module gae is available (D:\PLAY\Installables\play-1.2.5.3\modules\gae-1.6.0)
+15:20:50,084 WARN  ~ 
+15:20:50,084 WARN  ~ Google App Engine module
+15:20:50,084 WARN  ~ ~~~~~~~~~~~~~~~~~~~~~~~
+15:20:50,084 WARN  ~ No Google App Engine environment found. Setting up a development environement
+15:20:50,233 WARN  ~ 
+15:20:50,233 WARN  ~ You're running Play! in DEV mode
+15:20:50,601 INFO  ~ Listening for HTTP on port 9020 (Waiting a first request to start) ...
+15:21:19,797 INFO  ~ Application 'gaedemo' is now started !
+15:26:55,330 ERROR ~ 
+
+@6hb9le9c5
+styles.my_style.css action not found
+
+Action not found
+Action styles.my_style.css could not be found. Error raised is Controller controllers.styles.my_style not found
+
+play.exceptions.ActionNotFoundException: Action styles.my_style.css not found
+	at play.mvc.ActionInvoker.getActionMethod(ActionInvoker.java:599)
+	at play.mvc.ActionInvoker.resolve(ActionInvoker.java:85)
+	at Invocation.HTTP Request(Play!)
+Caused by: java.lang.Exception: Controller controllers.styles.my_style not found
+	... 3 more
+15:26:55,393 ERROR ~ 
+
+@6hb9le9c6
+images.furry_friend.jpg action not found
+
+Action not found
+Action images.furry_friend.jpg could not be found. Error raised is Controller controllers.images.furry_friend not found
+
+play.exceptions.ActionNotFoundException: Action images.furry_friend.jpg not found
+	at play.mvc.ActionInvoker.getActionMethod(ActionInvoker.java:599)
+	at play.mvc.ActionInvoker.resolve(ActionInvoker.java:85)
+	at Invocation.HTTP Request(Play!)
+Caused by: java.lang.Exception: Controller controllers.images.furry_friend not found
+	... 3 more
+15:28:23,977 ERROR ~ 
+
+@6hb9le9c7
+images.furry_friend.jpg action not found
+
+Action not found
+Action images.furry_friend.jpg could not be found. Error raised is Controller controllers.images.furry_friend not found
+
+play.exceptions.ActionNotFoundException: Action images.furry_friend.jpg not found
+	at play.mvc.ActionInvoker.getActionMethod(ActionInvoker.java:599)
+	at play.mvc.ActionInvoker.resolve(ActionInvoker.java:85)
+	at Invocation.HTTP Request(Play!)
+Caused by: java.lang.Exception: Controller controllers.images.furry_friend not found
+	... 3 more
+15:28:23,987 ERROR ~ 
+
+@6hb9le9c8
+styles.my_style.css action not found
+
+Action not found
+Action styles.my_style.css could not be found. Error raised is Controller controllers.styles.my_style not found
+
+play.exceptions.ActionNotFoundException: Action styles.my_style.css not found
+	at play.mvc.ActionInvoker.getActionMethod(ActionInvoker.java:599)
+	at play.mvc.ActionInvoker.resolve(ActionInvoker.java:85)
+	at Invocation.HTTP Request(Play!)
+Caused by: java.lang.Exception: Controller controllers.styles.my_style not found
+	... 3 more
+15:28:26,099 ERROR ~ 
+
+@6hb9le9c9
+images.furry_friend.jpg action not found
+
+Action not found
+Action images.furry_friend.jpg could not be found. Error raised is Controller controllers.images.furry_friend not found
+
+play.exceptions.ActionNotFoundException: Action images.furry_friend.jpg not found
+	at play.mvc.ActionInvoker.getActionMethod(ActionInvoker.java:599)
+	at play.mvc.ActionInvoker.resolve(ActionInvoker.java:85)
+	at Invocation.HTTP Request(Play!)
+Caused by: java.lang.Exception: Controller controllers.images.furry_friend not found
+	... 3 more
+15:28:26,108 ERROR ~ 
+
+@6hb9le9ca
+styles.my_style.css action not found
+
+Action not found
+Action styles.my_style.css could not be found. Error raised is Controller controllers.styles.my_style not found
+
+play.exceptions.ActionNotFoundException: Action styles.my_style.css not found
+	at play.mvc.ActionInvoker.getActionMethod(ActionInvoker.java:599)
+	at play.mvc.ActionInvoker.resolve(ActionInvoker.java:85)
+	at Invocation.HTTP Request(Play!)
+Caused by: java.lang.Exception: Controller controllers.styles.my_style not found
+	... 3 more
+15:28:26,120 ERROR ~ 
+
+@6hb9le9cb
+images.furry_friend.jpg action not found
+
+Action not found
+Action images.furry_friend.jpg could not be found. Error raised is Controller controllers.images.furry_friend not found
+
+play.exceptions.ActionNotFoundException: Action images.furry_friend.jpg not found
+	at play.mvc.ActionInvoker.getActionMethod(ActionInvoker.java:599)
+	at play.mvc.ActionInvoker.resolve(ActionInvoker.java:85)
+	at Invocation.HTTP Request(Play!)
+Caused by: java.lang.Exception: Controller controllers.images.furry_friend not found
+	... 3 more
+15:29:30,526 ERROR ~ 
+
+@6hb9le9cc
+styles.my_style.css action not found
+
+Action not found
+Action styles.my_style.css could not be found. Error raised is Controller controllers.styles.my_style not found
+
+play.exceptions.ActionNotFoundException: Action styles.my_style.css not found
+	at play.mvc.ActionInvoker.getActionMethod(ActionInvoker.java:599)
+	at play.mvc.ActionInvoker.resolve(ActionInvoker.java:85)
+	at Invocation.HTTP Request(Play!)
+Caused by: java.lang.Exception: Controller controllers.styles.my_style not found
+	... 3 more
+15:29:30,536 ERROR ~ 
+
+@6hb9le9cd
+images.furry_friend.jpg action not found
+
+Action not found
+Action images.furry_friend.jpg could not be found. Error raised is Controller controllers.images.furry_friend not found
+
+play.exceptions.ActionNotFoundException: Action images.furry_friend.jpg not found
+	at play.mvc.ActionInvoker.getActionMethod(ActionInvoker.java:599)
+	at play.mvc.ActionInvoker.resolve(ActionInvoker.java:85)
+	at Invocation.HTTP Request(Play!)
+Caused by: java.lang.Exception: Controller controllers.images.furry_friend not found
+	... 3 more
+15:29:30,563 ERROR ~ 
+
+@6hb9le9ce
+images.furry_friend.jpg action not found
+
+Action not found
+Action images.furry_friend.jpg could not be found. Error raised is Controller controllers.images.furry_friend not found
+
+play.exceptions.ActionNotFoundException: Action images.furry_friend.jpg not found
+	at play.mvc.ActionInvoker.getActionMethod(ActionInvoker.java:599)
+	at play.mvc.ActionInvoker.resolve(ActionInvoker.java:85)
+	at Invocation.HTTP Request(Play!)
+Caused by: java.lang.Exception: Controller controllers.images.furry_friend not found
+	... 3 more
+15:29:59,734 ERROR ~ 
+
+@6hb9le9cf
+Internal Server Error (500) for request GET /
+
+Template compilation error (In /app/views/Application/index.html around line 12)
+The template /app/views/Application/index.html does not compile : expecting ''', found '\n' 
+
+play.exceptions.TemplateCompilationException: expecting ''', found '\n' 
+	at play.templates.GroovyTemplate.compile(GroovyTemplate.java:189)
+	at play.templates.GroovyTemplate.internalRender(GroovyTemplate.java:210)
+	at play.templates.Template.render(Template.java:26)
+	at play.templates.GroovyTemplate.render(GroovyTemplate.java:202)
+	at play.mvc.results.RenderTemplate.<init>(RenderTemplate.java:24)
+	at play.mvc.Controller.renderTemplate(Controller.java:661)
+	at play.mvc.Controller.renderTemplate(Controller.java:641)
+	at play.mvc.Controller.render(Controller.java:696)
+	at controllers.Application.index(Application.java:13)
+	at play.mvc.ActionInvoker.invokeWithContinuation(ActionInvoker.java:557)
+	at play.mvc.ActionInvoker.invoke(ActionInvoker.java:508)
+	at play.mvc.ActionInvoker.invokeControllerMethod(ActionInvoker.java:484)
+	at play.mvc.ActionInvoker.invokeControllerMethod(ActionInvoker.java:479)
+	at play.mvc.ActionInvoker.invoke(ActionInvoker.java:161)
+	at Invocation.HTTP Request(Play!)
+15:30:41,183 ERROR ~ 
+
+@6hb9le9cg
+styles.my_style.css action not found
+
+Action not found
+Action styles.my_style.css could not be found. Error raised is Controller controllers.styles.my_style not found
+
+play.exceptions.ActionNotFoundException: Action styles.my_style.css not found
+	at play.mvc.ActionInvoker.getActionMethod(ActionInvoker.java:599)
+	at play.mvc.ActionInvoker.resolve(ActionInvoker.java:85)
+	at Invocation.HTTP Request(Play!)
+Caused by: java.lang.Exception: Controller controllers.styles.my_style not found
+	... 3 more
+15:31:31,826 ERROR ~ 
+
+@6hb9le9ch
+styles.my_style.css action not found
+
+Action not found
+Action styles.my_style.css could not be found. Error raised is Controller controllers.styles.my_style not found
+
+play.exceptions.ActionNotFoundException: Action styles.my_style.css not found
+	at play.mvc.ActionInvoker.getActionMethod(ActionInvoker.java:599)
+	at play.mvc.ActionInvoker.resolve(ActionInvoker.java:85)
+	at Invocation.HTTP Request(Play!)
+Caused by: java.lang.Exception: Controller controllers.styles.my_style not found
+	... 3 more
+15:31:40,572 ERROR ~ 
+
+@6hb9le9ci
+styles.my_style.css action not found
+
+Action not found
+Action styles.my_style.css could not be found. Error raised is Controller controllers.styles.my_style not found
+
+play.exceptions.ActionNotFoundException: Action styles.my_style.css not found
+	at play.mvc.ActionInvoker.getActionMethod(ActionInvoker.java:599)
+	at play.mvc.ActionInvoker.resolve(ActionInvoker.java:85)
+	at Invocation.HTTP Request(Play!)
+Caused by: java.lang.Exception: Controller controllers.styles.my_style not found
+	... 3 more
+15:51:42,905 ERROR ~ 
+
+@6hb9le9cj
+styles.my_style.css action not found
+
+Action not found
+Action styles.my_style.css could not be found. Error raised is Controller controllers.styles.my_style not found
+
+play.exceptions.ActionNotFoundException: Action styles.my_style.css not found
+	at play.mvc.ActionInvoker.getActionMethod(ActionInvoker.java:599)
+	at play.mvc.ActionInvoker.resolve(ActionInvoker.java:85)
+	at Invocation.HTTP Request(Play!)
+Caused by: java.lang.Exception: Controller controllers.styles.my_style not found
+	... 3 more
+16:14:34,796 ERROR ~ 
+
+@6hb9le9cl
+Internal Server Error (500) for request GET /
+
+Template not found (In /app/controllers/Application.java around line 13)
+The template JQuery1 does not exist.
+
+play.exceptions.TemplateNotFoundException: Template not found : JQuery1
+	at play.mvc.Controller.renderTemplate(Controller.java:668)
+	at play.mvc.Controller.renderTemplate(Controller.java:641)
+	at play.mvc.Controller.render(Controller.java:696)
+	at controllers.Application.index(Application.java:13)
+	at play.mvc.ActionInvoker.invokeWithContinuation(ActionInvoker.java:557)
+	at play.mvc.ActionInvoker.invoke(ActionInvoker.java:508)
+	at play.mvc.ActionInvoker.invokeControllerMethod(ActionInvoker.java:484)
+	at play.mvc.ActionInvoker.invokeControllerMethod(ActionInvoker.java:479)
+	at play.mvc.ActionInvoker.invoke(ActionInvoker.java:161)
+	at Invocation.HTTP Request(Play!)
+16:14:57,265 ERROR ~ 
+
+@6hb9le9cn
+Internal Server Error (500) for request GET /
+
+Template not found (In /app/controllers/Application.java around line 13)
+The template JQuery1.html does not exist.
+
+play.exceptions.TemplateNotFoundException: Template not found : JQuery1.html
+	at play.mvc.Controller.renderTemplate(Controller.java:668)
+	at play.mvc.Controller.renderTemplate(Controller.java:641)
+	at play.mvc.Controller.render(Controller.java:696)
+	at controllers.Application.index(Application.java:13)
+	at play.mvc.ActionInvoker.invokeWithContinuation(ActionInvoker.java:557)
+	at play.mvc.ActionInvoker.invoke(ActionInvoker.java:508)
+	at play.mvc.ActionInvoker.invokeControllerMethod(ActionInvoker.java:484)
+	at play.mvc.ActionInvoker.invokeControllerMethod(ActionInvoker.java:479)
+	at play.mvc.ActionInvoker.invoke(ActionInvoker.java:161)
+	at Invocation.HTTP Request(Play!)
+16:14:59,657 ERROR ~ 
+
+@6hb9le9cp
+Internal Server Error (500) for request GET /
+
+Template not found (In /app/controllers/Application.java around line 13)
+The template JQuery1.html does not exist.
+
+play.exceptions.TemplateNotFoundException: Template not found : JQuery1.html
+	at play.mvc.Controller.renderTemplate(Controller.java:668)
+	at play.mvc.Controller.renderTemplate(Controller.java:641)
+	at play.mvc.Controller.render(Controller.java:696)
+	at controllers.Application.index(Application.java:13)
+	at play.mvc.ActionInvoker.invokeWithContinuation(ActionInvoker.java:557)
+	at play.mvc.ActionInvoker.invoke(ActionInvoker.java:508)
+	at play.mvc.ActionInvoker.invokeControllerMethod(ActionInvoker.java:484)
+	at play.mvc.ActionInvoker.invokeControllerMethod(ActionInvoker.java:479)
+	at play.mvc.ActionInvoker.invoke(ActionInvoker.java:161)
+	at Invocation.HTTP Request(Play!)
+16:43:05,462 ERROR ~ 
+
+@6hb9le9d1
+Internal Server Error (500) for request GET /HOFF
+
+Template not found (In /app/controllers/Application.java around line 21)
+The template Application/HOFF.html does not exist.
+
+play.exceptions.TemplateNotFoundException: Template not found : Application/HOFF.html
+	at play.mvc.Controller.renderTemplate(Controller.java:668)
+	at play.mvc.Controller.renderTemplate(Controller.java:641)
+	at play.mvc.Controller.render(Controller.java:696)
+	at controllers.Application.HOFF(Application.java:21)
+	at play.mvc.ActionInvoker.invokeWithContinuation(ActionInvoker.java:557)
+	at play.mvc.ActionInvoker.invoke(ActionInvoker.java:508)
+	at play.mvc.ActionInvoker.invokeControllerMethod(ActionInvoker.java:484)
+	at play.mvc.ActionInvoker.invokeControllerMethod(ActionInvoker.java:479)
+	at play.mvc.ActionInvoker.invoke(ActionInvoker.java:161)
+	at Invocation.HTTP Request(Play!)
+16:50:52,906 ERROR ~ 
+
+@6hb9le9d3
+Internal Server Error (500) for request GET /HOFF
+
+No route found (In /app/views/Application/HOFF.html around line 7)
+No route able to display file  /public/images/furry_friend.jpg (file not found) was found.
+
+play.exceptions.NoRouteFoundException: No route found
+	at play.templates.BaseTemplate.throwException(BaseTemplate.java:80)
+	at play.templates.GroovyTemplate.internalRender(GroovyTemplate.java:257)
+	at play.templates.Template.render(Template.java:26)
+	at play.templates.GroovyTemplate.render(GroovyTemplate.java:202)
+	at play.mvc.results.RenderTemplate.<init>(RenderTemplate.java:24)
+	at play.mvc.Controller.renderTemplate(Controller.java:661)
+	at play.mvc.Controller.renderTemplate(Controller.java:641)
+	at play.mvc.Controller.render(Controller.java:696)
+	at controllers.Application.HOFF(Application.java:21)
+	at play.mvc.ActionInvoker.invokeWithContinuation(ActionInvoker.java:557)
+	at play.mvc.ActionInvoker.invoke(ActionInvoker.java:508)
+	at play.mvc.ActionInvoker.invokeControllerMethod(ActionInvoker.java:484)
+	at play.mvc.ActionInvoker.invokeControllerMethod(ActionInvoker.java:479)
+	at play.mvc.ActionInvoker.invoke(ActionInvoker.java:161)
+	at Invocation.HTTP Request(Play!)
+16:52:33,241 ERROR ~ 
+
+@6hb9le9d5
+Internal Server Error (500) for request GET /HOFF
+
+No route found (In /app/views/Application/HOFF.html around line 7)
+No route able to display file  /public/images/furry_friend.jpg (file not found) was found.
+
+play.exceptions.NoRouteFoundException: No route found
+	at play.templates.BaseTemplate.throwException(BaseTemplate.java:80)
+	at play.templates.GroovyTemplate.internalRender(GroovyTemplate.java:257)
+	at play.templates.Template.render(Template.java:26)
+	at play.templates.GroovyTemplate.render(GroovyTemplate.java:202)
+	at play.mvc.results.RenderTemplate.<init>(RenderTemplate.java:24)
+	at play.mvc.Controller.renderTemplate(Controller.java:661)
+	at play.mvc.Controller.renderTemplate(Controller.java:641)
+	at play.mvc.Controller.render(Controller.java:696)
+	at controllers.Application.HOFF(Application.java:21)
+	at play.mvc.ActionInvoker.invokeWithContinuation(ActionInvoker.java:557)
+	at play.mvc.ActionInvoker.invoke(ActionInvoker.java:508)
+	at play.mvc.ActionInvoker.invokeControllerMethod(ActionInvoker.java:484)
+	at play.mvc.ActionInvoker.invokeControllerMethod(ActionInvoker.java:479)
+	at play.mvc.ActionInvoker.invoke(ActionInvoker.java:161)
+	at Invocation.HTTP Request(Play!)
+17:02:20,099 ERROR ~ 
+
+@6hb9le9d6
+images.furry_friend.jpg action not found
+
+Action not found
+Action images.furry_friend.jpg could not be found. Error raised is Controller controllers.images.furry_friend not found
+
+play.exceptions.ActionNotFoundException: Action images.furry_friend.jpg not found
+	at play.mvc.ActionInvoker.getActionMethod(ActionInvoker.java:599)
+	at play.mvc.ActionInvoker.resolve(ActionInvoker.java:85)
+	at Invocation.HTTP Request(Play!)
+Caused by: java.lang.Exception: Controller controllers.images.furry_friend not found
+	... 3 more
