@@ -25,6 +25,10 @@ public class Application extends Controller {
     	render();
     }
     
+    public static void jump2(){
+    	render();
+    }
+    
     public static void html5(){
     	render();
     }

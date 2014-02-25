@@ -8,6 +8,7 @@ GET		/JQueryAnimate							Application.jQuery1
 GET		/HOFF									Application.hoff
 GET 	/JumpForJoy								Application.jump
 GET		/HTML5									Application.html5
+GET		/JumpForJoy2							Application.jump2
 
 # Ignore favicon requests
 GET     /favicon.ico                            404
